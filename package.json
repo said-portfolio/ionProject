@@ -17,6 +17,7 @@
     "@capacitor/status-bar": "4.1.1",
     "@ionic/vue": "^6.0.0",
     "@ionic/vue-router": "^6.0.0",
+    "@vueuse/core": "^9.11.1",
     "core-js": "^3.6.5",
     "ionicons": "^6.0.3",
     "vue": "^3.2.21",
@@ -37,7 +38,10 @@
     "eslint": "^8.4.1",
     "eslint-plugin-vue": "^9.8.0",
     "jest": "^27.3.1",
-    "ts-jest": "^27.0.7"
+    "sass": "^1.57.1",
+    "sass-loader": "^13.2.0",
+    "ts-jest": "^27.0.7",
+    "webpack": "^5.75.0"
   },
   "description": "An Ionic project"
 }
