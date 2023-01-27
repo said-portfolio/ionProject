@@ -4,10 +4,10 @@
       <ion-header :translucent="true">
         <ion-toolbar>
           <ion-row class="toolBar">
-            <ion-col size="10">
+            <ion-col size="4" size-md="8" size-lg="10">
               <ion-title>Blank</ion-title>
             </ion-col>
-            <ion-col size="2"
+            <ion-col size="8" size-md="4" size-lg="2"
             ><ion-grid>
               <ion-row class="themeBar">
                 <ion-col class="light-mode-icon">
